@@ -27,7 +27,7 @@
                             <input placeholder="Masukkan password" type="password" id="password" name="password" value=""><br>
                             <label for="password_confirmation">Konfirmasi password</label><br>
                             <input placeholder="Konfirmasi password" type="password" id="password_confirmation" name="password_confirmation" value=""><br><br>
-                            <div>
+                            <div class="input-button">
                                 <input type="submit" value="Daftar">
                             </div>
                         </form>

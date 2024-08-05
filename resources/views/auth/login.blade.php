@@ -23,7 +23,7 @@
                             <input placeholder="Masukkan email" type="text" id="email" name="email" value=""><br>
                             <label for="password">Password</label><br>
                             <input placeholder="Masukkan password" type="password" id="password" name="password" value=""><br><br>
-                            <div>
+                            <div class="input-button">
                                 <input type="submit" value="Login">
                             </div>
                         </form>
